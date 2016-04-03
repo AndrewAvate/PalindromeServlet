@@ -1,0 +1,7 @@
+/target/
+/Users/
+/.classpath
+/.project
+/.settings
+nb-configuration.xml
+.DS_Store
